@@ -38,6 +38,11 @@
     ghuiii/AnimationWithoutCode
     chrisbanes/cheesesquare
     brianway/java-learning                          旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web
+    lightSky/Awesome-MaterialDesign
+    codepath/android_guides
+    hehonghui/android-tech-frontier
+    SmartisanTech/android
+    l123456789jy/Lazy                               常用的工具类
 
 人脸识别文章
     msandroid/Face-recognition
@@ -65,6 +70,8 @@ google指南
     race604/FlyRefresh
     Yalantis／pull-to-make-soup
     johannilsson／android-pulltorefresh
+    WuXiaolong/PullLoadMoreRecyclerView
+  
 
 按钮
     futuresimple/android-floating-action-button
@@ -74,19 +81,23 @@ google指南
     UFreedom/FloatingView
     czy1121/badgebutton                             带小红点
     JoaquimLey/faboptions
-
+    Aspsine/SwipeToLoadLayout
 
 菜单按钮
     ShamylZakariya/FlyoutMenus
     Hitomis/SpinMenu
     Hitomis/CircleMenu
     dongjunkun/DropDownMenu
+    Nightonke/BoomMenu
 
 recycler相关
     CymChad／BaseRecyclerViewAdapterHelper
     JakeWharton/retrofit2-rxjava2-adapter
     dinuscxj／PullZoomRecyclerView
     xuehuayous／WrapRecyclerView
+    HoneyNeutrons/RecyclerViewUndoSwipe
+    Aspsine/IRecyclerView
+    cymcsg/UltimateRecyclerView
 
 
 viewpager相关
@@ -97,6 +108,7 @@ viewpager相关
 textView相关
     elye／loaderviewlibrary
     lypeer/GoogleClock
+    nntuyen/text-decorator
 
 图片 
     bm-x／PhotoView
@@ -114,6 +126,8 @@ textView相关
     aryarohit07/PicassoFaceDetectionTransformation
     chrisbanes／PhotoView
     BigBadaboom/androidsvg
+    MegatronKing/SVG-Android
+    geftimov/android-pathview
 
 相册选择
     D-clock/AndroidAlbum
@@ -131,6 +145,7 @@ textView相关
     52inc/Scoops
     ldoublem/RingProgress
     HotBitmapGG／RingProgressBar
+    
 
 对话框
     afollestad/material-dialogs      
@@ -146,6 +161,8 @@ textView相关
     Yellow5A5／ActSwitchAnimTool
     thunderrise/android-TNRAnimationHelper
     ImmortalZ/TransitionHelper
+    lgvalle/Material-Animations
+
 
 
 选择框
@@ -163,6 +180,10 @@ textView相关
     jingchenUSTC/TimePicker
     code-troopers/android-betterpickers
     zaaach/CityPicker
+    Carbs0126/NumberPickerView
+    jjobes/SlideDateTimePicker
+    DroidNinja/Android-FilePicker
+
 
 日历
     henry-newbie/CalendarView
@@ -170,6 +191,7 @@ textView相关
     Tibolte/AgendaCalendarView
     dengshiwei/CalendarComponent
     yarnpkg/yarn
+    codbking/CalendarExaple
 
 初始导航
     iammert／MaterialIntroView
@@ -250,6 +272,7 @@ icons
     DreaminginCodeZH/MaterialRatingBar  RatingBar
     codemybrainsout/smart-app-rate      评分框
     githubwing/ZoomHeader               模仿饿了么详情页可以跟随手指移动 viewpager变详情页
+    mcxtzhang/ZLayoutManager            一些自定义的LayoutManager，仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等
 
 ```
 
@@ -297,6 +320,8 @@ icons
     square/retrofit
     jeasonlzy/okhttp-OkGo
     facebook/network-connection-class
+    square/okhttp
+    Tencent/mars                                    微信网络库
 
 图片加载    
     mcxiaoke/android-volley
@@ -333,6 +358,8 @@ UI
     easemob/easeui
     danielzeller/Depth-LIB-Android
     GcsSloop/ViewSupport                           View辅助工具包，帮助你快速优雅的完成自定义View
+    Bearded-Hen/Android-Bootstrap
+    facebookincubator/TextLayoutBuilder
 
 字体
     smart-fun/SmartFonts
@@ -351,6 +378,7 @@ XMPP
     google/protobuf-gradle-plugin                   protobuf
     android/platform_external_protobuf              protobuf
     elvishew/xLog
+    wenmingvs/AndroidProcess                        判断App位于前台或者后台的6种方法
 ```
 
 4. reactNative
@@ -372,6 +400,7 @@ googlesamples/android-DirectBoot
 googlesamples/android-MessagingService
 googlesamples/android-ActiveNotifications
 googlesamples/android-MultiWindowPlayground
+googlesamples/android-ScopedDirectoryAccess
 kanytu／Android-studio-material-template
 captain-miao／AndroidAgeraTutorial                   Agera例子
 lurbas/ViperArchitectureExample
@@ -417,7 +446,10 @@ numbbbbb/the-swift-programming-language-in-chinese
     Yalantis/Pull-to-Refresh.Rentals-iOS
 
 侧滑
-    Yalantis/Side-Menu.iOS    
+    Yalantis/Side-Menu.iOS 
+
+按钮
+    Nightonke/VHBoomMenuButton
 ```
 
 2. 框架
@@ -429,6 +461,7 @@ Cosmo/TinyConsole
 MichaelHuyp/Bilibili_Wuxianda
 Kapeli/Dash-iOS
 Coding/Coding-iOS                               Coding iOS 客户端源代码
+kickstarter/ios-oss
 
 ```
 
@@ -484,6 +517,7 @@ syncthing/syncthing
 kubernetes/kubernetes
 exercism/go
 golang/net
+hyper0x/goc2p
 ```
 
 3. 项目例子
@@ -512,6 +546,11 @@ huang303513/Weather_Vue                 Vue全家桶实践
 huang303513/WebBasicCommonDemos         html、css、javascript、ajax、weex、vue.js、less、webpack等前端学习基础知识
 vuematerial/vue-material
 yarnpkg/yarn
+bhnddowinf/vuejs2-learn
+vuejs/vue
+supperjet/H5-Animation                  每周一点canvas动画代码文件
+AlloyTeam/Mars                          腾讯移动Web前端知识库
+
 
 ```
 
@@ -525,6 +564,13 @@ icindy/wxParse                         wxParse-微信小程序富文本解析自
 Bilibili/flv.js                        HTML5 FLV Player
 romannurik/AndroidIconAnimator
 markdown-it/markdown-it
+HubSpot/tether
+ElemeFE/element                         A Vue.js 2.0 UI Toolkit for Web
+yuche/vue-strap
+laobubu/MarkdownIME
+wangdahoo/vonic
+angular-ui/bootstrap
+vuwe/vuwe
 
 ```
 
@@ -536,10 +582,14 @@ ruanyf/react-demos
 #### python
 
 1. 整合
+```
+vinta/awesome-python
+```
 
 2. 框架
 ```
 tornadoweb/tornado
+kevinhughes27/TensorKart
 ```
 
 3. 项目例子
@@ -592,6 +642,7 @@ Dev-XYS/Algorithms      全面的算法代码库
 1. 整合
 
 ```
-limetext/lime           ide相关
-
+limetext/lime                   ide相关
+Skykai521/sketch-measure        sketch插件
+miloyip/game-programmer
 ```

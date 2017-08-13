@@ -24,6 +24,7 @@
     wasabeef/awesome-android-ui
     weixin/WeIndex                                  微信相关资源索引
     Trinea/android-open-project
+    GeniusVJR/LearningNotes
     tangqi92/Android-Tips
     zhujun2730/Android-Learning-Resources           Android学习资源网站索引大全
     xitu/gold-miner                                 掘金翻译计划，翻译掘金上优质的英文文章
@@ -43,6 +44,7 @@
     hehonghui/android-tech-frontier
     SmartisanTech/android
     l123456789jy/Lazy                               常用的工具类
+    ychow／ionic-guide                               Ionic 中文指南
 
 人脸识别文章
     msandroid/Face-recognition
@@ -162,6 +164,7 @@ textView相关
     thunderrise/android-TNRAnimationHelper
     ImmortalZ/TransitionHelper
     lgvalle/Material-Animations
+    asyl/ArcAnimator
 
 
 
@@ -213,7 +216,7 @@ textView相关
 富文本
     wasabeef/richeditor-android
     zzhoujay/RichText
-
+    jaredrummler/HtmlBuilder
 
 头部
     JakeWharton／ActionBarSherlock
@@ -242,6 +245,7 @@ icons
     XunMengWinter/CircularAnim
     siriscac/RippleView
     traex/RippleEffect
+    skyfishjy/android-ripple-background
 
 沉浸模式
     niorgai/StatusBarCompat
@@ -257,6 +261,7 @@ icons
 
 统计图
     ZuYun/Jgraph
+    lecho/hellocharts-android
 
 其他
     wingjay/WJMagicCurveView            数学曲线
@@ -273,7 +278,7 @@ icons
     codemybrainsout/smart-app-rate      评分框
     githubwing/ZoomHeader               模仿饿了么详情页可以跟随手指移动 viewpager变详情页
     mcxtzhang/ZLayoutManager            一些自定义的LayoutManager，仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等
-
+    DesarrolloAntonio/FragmentTransactionExtended       下拉选择框
 ```
 
 3. 框架
@@ -327,15 +332,17 @@ icons
     mcxiaoke/android-volley
     google/volley
     bumptech/glide
+    wasabeef/glide-transformations
     nostra13／Android-Universal-Image-Loader
 
 
 事件总线
     greenrobot/EventBus
+    square/otto
 
 数据库
-    j256／ormlite-android
-    greenrobot／greenDAO
+    j256/ormlite-android
+    greenrobot/greenDAO
     pardom/ActiveAndroid
     facebook/osquery
     Raizlabs/DBFlow
@@ -352,6 +359,10 @@ icons
     Tencent/QTAF
     Tencent/QT4i
     Tencent/QT4A
+
+多媒体
+    yixia/VitamioBundle             一款 Android 与 iOS 平台上的全能多媒体开发框架  SDK
+
 
 UI
     markushi/android-ui

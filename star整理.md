@@ -3,14 +3,14 @@
 
 #### 目录
 
-1. [Android](#Android)
-2. [iOS](#iOS)
-3. [C系列](#C系列)
-4. [GO](#GO)
+1. [Android](#android)
+2. [iOS](#ios)
+3. [C系列](#c系列)
+4. [GO](#go)
 5. [前端](#前端)
 6. [python](#python)
 7. [数据分析](#数据分析)
-8. [VR](#VR)
+8. [VR](#vr)
 9. [算法](#算法)
 9. [其他](#其他)
 

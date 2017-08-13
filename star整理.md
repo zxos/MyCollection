@@ -1,0 +1,597 @@
+## 个人star列表整理
+
+
+#### 目录
+
+1. [Android](Android)
+2. [iOS](iOS)
+3. [C系列](C系列)
+4. [GO](GO)
+5. [前端](前端)
+6. [python](python)
+7. [数据分析](数据分析)
+8. [VR](VR)
+9. [算法](算法)
+9. [其他](其他)
+
+
+#### Android
+
+1. 整合
+
+```
+项目整合
+    wasabeef/awesome-android-ui
+    weixin/WeIndex                                  微信相关资源索引
+    Trinea/android-open-project
+    tangqi92/Android-Tips
+    zhujun2730/Android-Learning-Resources           Android学习资源网站索引大全
+    xitu/gold-miner                                 掘金翻译计划，翻译掘金上优质的英文文章
+    zmywly8866/FreeMarker_2.3.23_Manual_zh_CN       FreeMarker中文手册
+    pedant/safe-java-js-webview-bridge              为WebView中的Java与JavaScript提供【安全可靠】的多样互通方案
+    zzz40500/Tinker_imitator                        微信热更新方案实践
+    android/platform_frameworks_base                源码
+    lguipeng／Notes
+    madongqiang2201/views
+    GcsSloop/AndroidNote
+    XXApple/AndroidLibs
+    ghuiii/AnimationWithoutCode
+    chrisbanes/cheesesquare
+    brianway/java-learning                          旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web
+
+人脸识别文章
+    msandroid/Face-recognition
+
+google指南
+    google/guice
+    zh-google-styleguide／zh-google-styleguide   Google 开源项目风格指南 (中文版)
+    google/styleguide
+
+群英传代码
+    xuyisheng/AndroidHeroes
+
+```
+
+
+2. 控件
+
+```
+刷新控件
+    chrisbanes/Android-PullToRefresh
+    tuesda/CircleRefreshLayout
+    Maxwin-z/XListView-Android
+    dinuscxj/RecyclerRefreshLayout
+    Yalantis/Phoenix
+    race604/FlyRefresh
+    Yalantis／pull-to-make-soup
+    johannilsson／android-pulltorefresh
+
+按钮
+    futuresimple/android-floating-action-button
+    zcweng/ToggleButton
+    ChadCSong/ShineButton
+    uin3566/AllAngleExpandableButton
+    UFreedom/FloatingView
+    czy1121/badgebutton                             带小红点
+    JoaquimLey/faboptions
+
+
+菜单按钮
+    ShamylZakariya/FlyoutMenus
+    Hitomis/SpinMenu
+    Hitomis/CircleMenu
+    dongjunkun/DropDownMenu
+
+recycler相关
+    CymChad／BaseRecyclerViewAdapterHelper
+    JakeWharton/retrofit2-rxjava2-adapter
+    dinuscxj／PullZoomRecyclerView
+    xuehuayous／WrapRecyclerView
+
+
+viewpager相关
+    chengdazhi/DecentBanner
+    Devlight/InfiniteCycleViewPager
+    saiwu-bigkoo/Android-ConvenientBanner           广告栏
+
+textView相关
+    elye／loaderviewlibrary
+    lypeer/GoogleClock
+
+图片 
+    bm-x／PhotoView
+    Yalantis／uCrop
+    Cutta／GifView   
+    chengdazhi／StyleImageView
+    BradLarson／GPUImage
+    nimengbo/StickerView
+    biokys／cropimage
+    ojas-webonise／ImageViewTouch
+    CyberAgent/android-gpuimage
+    jdamcd/android-crop
+    Curzibn/Luban                                       图片压缩算法
+    shaohui10086/AdvancedLuban                          高效、简洁的图片压缩工具
+    aryarohit07/PicassoFaceDetectionTransformation
+    chrisbanes／PhotoView
+    BigBadaboom/androidsvg
+
+相册选择
+    D-clock/AndroidAlbum
+    YancyYe/ImageSelector
+    habzy/GridImagePicker
+    lovetuzitong/MultiImageSelector
+    FinalTeam/RxGalleryFinal
+    pengjianbo/GalleryFinal
+
+进度条，加载
+    timqi／SectorProgressView
+    ybq/Android-SpinKit   
+    aliab/circular-music-progressbar
+    dinuscxj/LoadingDrawable
+    52inc/Scoops
+    ldoublem/RingProgress
+    HotBitmapGG／RingProgressBar
+
+对话框
+    afollestad/material-dialogs      
+
+侧滑
+    jfeinstein10/SlidingMenu
+    mikepenz/MaterialDrawer
+    mxn21/FlowingDrawer
+    keklikhasan/LDrawer
+    mzule／FantasySlide
+
+动画 
+    Yellow5A5／ActSwitchAnimTool
+    thunderrise/android-TNRAnimationHelper
+    ImmortalZ/TransitionHelper
+
+
+选择框
+    andyxialm/SmoothCheckBox
+
+选择器
+    Bigkoo/Android-PickerView
+    chathudan／CountryCodePicker
+    DavidPizarro/PickerUI
+    helloJp/WheelView
+    klinker24/Android-3DTouch-PeekView
+    JZXiang/TimePickerDialog
+    borax12/MaterialDateRangePicker
+    mrfluency/Time-Selector
+    jingchenUSTC/TimePicker
+    code-troopers/android-betterpickers
+    zaaach/CityPicker
+
+日历
+    henry-newbie/CalendarView
+    dalong982242260/AndroidCalendar                 日历收集demo
+    Tibolte/AgendaCalendarView
+    dengshiwei/CalendarComponent
+    yarnpkg/yarn
+
+初始导航
+    iammert／MaterialIntroView
+    TangoAgency/material-intro-screen 
+    codemybrainsout/ahoy-onboarding   
+
+粒子动画
+    ZhaoKaiQiang／ParticleLayout   左滑粒子特效
+    plattysoft/Leonids
+    JeasonWong／Particle
+
+吐司
+    pyricau/frenchtoast
+
+布局
+    AAkira/ExpandableLayout  可展开view
+    elevenetc/DraggableView   可拖拽
+
+富文本
+    wasabeef/richeditor-android
+    zzhoujay/RichText
+
+
+头部
+    JakeWharton／ActionBarSherlock
+    jgilfelt/SystemBarTint
+
+
+环形
+    feeeei/CircleSeekbar
+
+录音
+    Piasy/RxAndroidAudio
+
+流程
+    baoyachi/StepView
+
+播放器
+    Bilibili／ijkplayer
+    Bilibili／DanmakuFlameMaster     弹幕
+
+icons   
+    google／material-design-icons   
+    theDazzler/droidicon 
+
+水波纹
+    booncol/Pulsator4Droid
+    XunMengWinter/CircularAnim
+    siriscac/RippleView
+    traex/RippleEffect
+
+沉浸模式
+    niorgai/StatusBarCompat
+    laobie/StatusBarUtil
+
+相机
+    JeroenMols/LandscapeVideoCamera
+    wuhaoyu1990／MagicCamera
+    PkmX/lcamera
+    afollestad／material-camera
+    ArthurHub／Android-Image-Cropper
+    Skykai521／StickerCamera
+
+统计图
+    ZuYun/Jgraph
+
+其他
+    wingjay/WJMagicCurveView            数学曲线
+    oubowu/MarqueeLayoutLibrary         一个支持四个方向循环滚动的自定义控件
+    jackpocket/android_scratchoff       刮刮乐
+    qifengdeqingchen/SeatTable          电影票在线选座
+    robinhood/ticker                    文字上下滚动
+    tarek360/Instacapture               截屏
+    rockerhieu/emojiconize              emoji
+    githubwing/ThreeDLayout             一秒让你的view拥有3D效果
+    xurui1995/Radar                     雷达图
+    Yalantis/SearchFilter               kotlin  带搜索
+    DreaminginCodeZH/MaterialRatingBar  RatingBar
+    codemybrainsout/smart-app-rate      评分框
+    githubwing/ZoomHeader               模仿饿了么详情页可以跟随手指移动 viewpager变详情页
+
+```
+
+3. 框架
+
+```
+综合框架
+    wyouflf/xUtils
+    wyouflf/xUtils3
+    androidannotations/androidannotations
+    google/guava
+    meikoz/Basic
+    Trinea/android-common
+    lidong1665/AndroidRapidLibrary
+    limedroid/XDroid
+
+服务器
+    jetty-project/i-jetty
+
+依赖注入
+    roboguice/roboguice
+    google/dagger
+    JakeWharton／butterknife
+    google/tiger
+
+
+简化反射
+    jOOQ/jOOR
+
+手势
+    mattprecious/telescope
+
+
+游戏
+    cocos2d／cocos2d-x
+    moby/moby
+
+异步
+    ReactiveX/RxJava
+    ReactiveX/RxAndroid
+    google/agera
+    JakeWharton/RxBinding
+
+网络
+    square/retrofit
+    jeasonlzy/okhttp-OkGo
+    facebook/network-connection-class
+
+图片加载    
+    mcxiaoke/android-volley
+    google/volley
+    bumptech/glide
+    nostra13／Android-Universal-Image-Loader
+
+
+事件总线
+    greenrobot/EventBus
+
+数据库
+    j256／ormlite-android
+    greenrobot／greenDAO
+    pardom/ActiveAndroid
+    facebook/osquery
+    Raizlabs/DBFlow
+    square/sqlbrite
+
+异常捕获
+    markzhai/AndroidPerformanceMonitor
+
+热更新
+    Tencent/tinker
+    eleme/Amigo
+
+测试
+    Tencent/QTAF
+    Tencent/QT4i
+    Tencent/QT4A
+
+UI
+    markushi/android-ui
+    easemob/easeui
+    danielzeller/Depth-LIB-Android
+    GcsSloop/ViewSupport                           View辅助工具包，帮助你快速优雅的完成自定义View
+
+字体
+    smart-fun/SmartFonts
+
+XMPP
+    Flowdalic/asmack     
+
+其他
+    GavinCT/AndroidMultiChannelBuildTool            安卓多渠道打包工具
+    Blankj／AndroidUtilCode                         综合工具类
+    Sunzxyong／Recovery                             自动处理程序在运行时的Crash
+    alibaba/fastjson                                fastjson
+    square/duktape-android                          js引擎包
+    kot32go/dynamic-load-view                       能够动态加载外部apk中的View以及资源，能够热修复线上View，以及模块化更新。
+    golang/protobuf                                 protobuf
+    google/protobuf-gradle-plugin                   protobuf
+    android/platform_external_protobuf              protobuf
+    elvishew/xLog
+```
+
+4. reactNative
+
+```
+facebook/react-native
+facebookincubator / Keyframes
+
+项目例子
+    poberwong/mdcc-client
+```
+
+5. 项目、例子
+
+```
+JackyAndroid/AndroidChromium                        chrome内核
+googlesamples／android-architecture                  google例子
+googlesamples/android-DirectBoot
+googlesamples/android-MessagingService
+googlesamples/android-ActiveNotifications
+googlesamples/android-MultiWindowPlayground
+kanytu／Android-studio-material-template
+captain-miao／AndroidAgeraTutorial                   Agera例子
+lurbas/ViperArchitectureExample
+HannahMitt/HomeMirror
+kaushikgopal／RxJava-Android-Samples
+jianliaoim/talk-os                                  简聊开源版
+easemob/emchat-server-examples
+tmorcinek/android-codegenerator-plugin-intellij     AS插件
+AlanCheen/AndFixDemo                                热修复
+dannytiehui/androidpn
+flyou/Girls
+andremion/Music-Player                              音乐播放器
+TakWolf/CNode-Material-Design                       CNode 社区第三方 Android 客户端，原生 App，Material Design 风格，支持夜间模式。
+xplodwild/android_packages_apps_Focal               Open Source Android Camera App | don't forget android_external_Focal repo
+bkiers／retrofit-oauth                               A Retrofit + Google OAuth demo.
+Dimon94／GanWuMei                                    干货集中营Android客户端
+salRoid／Filmy 
+Werb/GankWithZhihu
+Qixingchen／MD-BiliBili
+JustWayward/BookReader
+hefuyicoder/ZhihuDaily
+ryanhoo/StylishMusicPlayer
+zhoubowen-sky/LingDong                              “面对面文件快传”，Android端灵动快传
+izzyleung/ZhihuDailyPurify                          更纯净的知乎日报
+wuyinlei/MyHearts
+Yalantis/ToDoList
+DiyCodes/code_news                                  Diycode每日文章精选
+
+
+```
+
+#### iOS
+
+1. 整合
+```
+numbbbbb/the-swift-programming-language-in-chinese
+```
+
+
+2. 控件
+```
+刷新
+    Yalantis/Pull-to-Refresh.Rentals-iOS
+
+侧滑
+    Yalantis/Side-Menu.iOS    
+```
+
+2. 框架
+```
+Cosmo/TinyConsole
+```
+3. 项目例子
+```
+MichaelHuyp/Bilibili_Wuxianda
+Kapeli/Dash-iOS
+Coding/Coding-iOS                               Coding iOS 客户端源代码
+
+```
+
+
+
+#### C系列
+
+1. 整合
+
+```
+jobbole/awesome-c-cn    C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
+
+
+
+```
+
+2. 项目例子
+
+```
+yangyangwithgnu/hardseed 下载器
+```
+
+#### GO
+
+1. 整合
+
+```
+avelino／awesome-go
+astaxie/build-web-application-with-golang       文档
+sjwhitworth/golearn
+golang/go
+
+```
+
+2. 框架
+```
+revel/revel
+Terry-Mao/goim
+grpc/grpc
+baidu/sofa-pbrpc
+google/go-github
+evolsnow/robot
+hashicorp/terraform
+hashicorp/consul
+dropbox/godropbox
+flynn/flynn
+coreos/fleet
+golang/tools
+coreos/etcd
+drone/drone
+hashicorp/packer
+syncthing/syncthing
+kubernetes/kubernetes
+exercism/go
+golang/net
+```
+
+3. 项目例子
+
+```
+WhiteBlue/bilibili-sdk-go
+nsf／gocode
+silenceper/wechat
+davyxu/cellnet
+golang/mobile
+smartystreets/goconvey
+nsqio/nsq
+```
+
+
+#### 前端
+
+1. 整合
+```
+notedown/wxopen                         小程序文档
+justjavac/awesome-wechat-weapp          微信小程序开发资源汇总
+liujians/Wa-UI                          针对微信小程序整合的一套UI库
+nswbmw/N-blog                           一起学 Node.js
+facebook/react
+huang303513/Weather_Vue                 Vue全家桶实践
+huang303513/WebBasicCommonDemos         html、css、javascript、ajax、weex、vue.js、less、webpack等前端学习基础知识
+vuematerial/vue-material
+yarnpkg/yarn
+
+```
+
+2. 框架
+
+```
+naptha/tesseract.js                    文字切割识别
+hexojs/hexo                            博客
+WechatFE/vConsole                      调试
+icindy/wxParse                         wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析
+Bilibili/flv.js                        HTML5 FLV Player
+romannurik/AndroidIconAnimator
+markdown-it/markdown-it
+
+```
+
+3. 项目例子
+```
+ruanyf/react-demos
+```
+
+#### python
+
+1. 整合
+
+2. 框架
+```
+tornadoweb/tornado
+```
+
+3. 项目例子
+
+
+#### 数据分析
+
+1. 整合
+
+```
+jikexueyuanwiki/tensorflow-zh               谷歌全新开源人工智能系统TensorFlow官方文档中文版
+ty4z2008/Qix                                资料
+ZuzooVn/machine-learning-for-software-engineers
+
+
+```
+
+2. 框架
+
+```
+tensorflow／tensorflow
+Microsoft/malmo
+```
+
+3. 项目例子
+
+```
+tensorflow/models
+xviniette/FlappyLearning
+```
+
+#### VR
+
+1. 整合
+```
+GeekLiB/Lee-VR-Source
+```
+
+
+#### 算法
+
+1. 整合
+```
+Dev-XYS/Algorithms      全面的算法代码库
+```
+
+
+#### 其他
+
+1. 整合
+
+```
+limetext/lime           ide相关
+
+```

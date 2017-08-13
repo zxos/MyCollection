@@ -24,6 +24,7 @@
     wasabeef/awesome-android-ui
     weixin/WeIndex                                  微信相关资源索引
     Trinea/android-open-project
+    JStumpp/awesome-android
     GeniusVJR/LearningNotes
     tangqi92/Android-Tips
     zhujun2730/Android-Learning-Resources           Android学习资源网站索引大全
@@ -73,6 +74,7 @@ google指南
     Yalantis／pull-to-make-soup
     johannilsson／android-pulltorefresh
     WuXiaolong/PullLoadMoreRecyclerView
+    
   
 
 按钮
@@ -106,6 +108,7 @@ viewpager相关
     chengdazhi/DecentBanner
     Devlight/InfiniteCycleViewPager
     saiwu-bigkoo/Android-ConvenientBanner           广告栏
+    jeasonlzy/HeaderViewPager
 
 textView相关
     elye／loaderviewlibrary
@@ -130,6 +133,7 @@ textView相关
     BigBadaboom/androidsvg
     MegatronKing/SVG-Android
     geftimov/android-pathview
+    laobie/NineGridImageView
 
 相册选择
     D-clock/AndroidAlbum
@@ -138,6 +142,7 @@ textView相关
     lovetuzitong/MultiImageSelector
     FinalTeam/RxGalleryFinal
     pengjianbo/GalleryFinal
+    jeasonlzy/ImagePicker
 
 进度条，加载
     timqi／SectorProgressView
@@ -147,6 +152,7 @@ textView相关
     52inc/Scoops
     ldoublem/RingProgress
     HotBitmapGG／RingProgressBar
+    Ajian-studio/GABottleLoading
     
 
 对话框
@@ -165,7 +171,8 @@ textView相关
     ImmortalZ/TransitionHelper
     lgvalle/Material-Animations
     asyl/ArcAnimator
-
+    florent37/ExpectAnim
+    airbnb/lottie-android
 
 
 选择框
@@ -195,6 +202,7 @@ textView相关
     dengshiwei/CalendarComponent
     yarnpkg/yarn
     codbking/CalendarExaple
+    loonggg/WeekCalendar
 
 初始导航
     iammert／MaterialIntroView
@@ -208,10 +216,13 @@ textView相关
 
 吐司
     pyricau/frenchtoast
+    GrenderG/Toasty
 
 布局
     AAkira/ExpandableLayout  可展开view
     elevenetc/DraggableView   可拖拽
+    ikew0ng/SwipeBackLayout
+    cpoopc/ScrollableLayout     共同头部+ViewPager+ListView 
 
 富文本
     wasabeef/richeditor-android
@@ -221,6 +232,7 @@ textView相关
 头部
     JakeWharton／ActionBarSherlock
     jgilfelt/SystemBarTint
+    Aspsine/FragmentNavigator
 
 
 环形
@@ -239,6 +251,8 @@ textView相关
 icons   
     google／material-design-icons   
     theDazzler/droidicon 
+    Malinskiy/android-material-icons
+    JoanZapata/android-iconify
 
 水波纹
     booncol/Pulsator4Droid
@@ -258,6 +272,7 @@ icons
     afollestad／material-camera
     ArthurHub／Android-Image-Cropper
     Skykai521／StickerCamera
+    google/cameraview
 
 统计图
     ZuYun/Jgraph
@@ -327,6 +342,8 @@ icons
     facebook/network-connection-class
     square/okhttp
     Tencent/mars                                    微信网络库
+    hongyangAndroid/okhttputils
+    loopj/android-async-http
 
 图片加载    
     mcxiaoke/android-volley
@@ -354,11 +371,25 @@ icons
 热更新
     Tencent/tinker
     eleme/Amigo
+    Meituan-Dianping/Robust
+    alibaba/atlas
+
 
 测试
     Tencent/QTAF
     Tencent/QT4i
     Tencent/QT4A
+
+支付
+    mayubao/Android-Pay
+
+自适应
+    hongyangAndroid/AndroidAutoLayout
+    JulienGenoud/android-percent-support-lib-sample
+
+缓存
+    VictorAlbertos/RxCache
+    yangfuhai/ASimpleCache
 
 多媒体
     yixia/VitamioBundle             一款 Android 与 iOS 平台上的全能多媒体开发框架  SDK
@@ -371,6 +402,9 @@ UI
     GcsSloop/ViewSupport                           View辅助工具包，帮助你快速优雅的完成自定义View
     Bearded-Hen/Android-Bootstrap
     facebookincubator/TextLayoutBuilder
+
+二维码
+    zxing/zxing
 
 字体
     smart-fun/SmartFonts
@@ -396,10 +430,22 @@ XMPP
 
 ```
 facebook/react-native
-facebookincubator / Keyframes
+facebookincubator/Keyframes
+airbnb/lottie-react-native
+FormidableLabs/react-animations
+gaearon/redux-thunk
 
 项目例子
     poberwong/mdcc-client
+    MarnoDev/react-native-eyepetizer
+    alinz/example-react-native-redux
+    wwayne/react-native-nba-app
+    xiekw2010/react-native-gitfeed
+    stage88/react-weather
+    attentiveness/reading
+    fbsamples/f8app
+
+
 ```
 
 5. 项目、例子
@@ -412,6 +458,7 @@ googlesamples/android-MessagingService
 googlesamples/android-ActiveNotifications
 googlesamples/android-MultiWindowPlayground
 googlesamples/android-ScopedDirectoryAccess
+googlesamples/easypermissions
 kanytu／Android-studio-material-template
 captain-miao／AndroidAgeraTutorial                   Agera例子
 lurbas/ViperArchitectureExample
@@ -439,7 +486,10 @@ izzyleung/ZhihuDailyPurify                          更纯净的知乎日报
 wuyinlei/MyHearts
 Yalantis/ToDoList
 DiyCodes/code_news                                  Diycode每日文章精选
-
+smuyyh/SprintNBA
+Bilibili/boxing
+aa112901/remusic
+drakeet/Meizhi
 
 ```
 
@@ -504,13 +554,19 @@ avelino／awesome-go
 astaxie/build-web-application-with-golang       文档
 sjwhitworth/golearn
 golang/go
-
+beego/products
+Microsoft/vscode-go
 ```
 
 2. 框架
 ```
 revel/revel
 Terry-Mao/goim
+labstack/echo
+gin-gonic/gin
+astaxie/beego
+
+
 grpc/grpc
 baidu/sofa-pbrpc
 google/go-github
@@ -561,7 +617,7 @@ bhnddowinf/vuejs2-learn
 vuejs/vue
 supperjet/H5-Animation                  每周一点canvas动画代码文件
 AlloyTeam/Mars                          腾讯移动Web前端知识库
-
+phodal/ideabook                         一个全栈增长工程师的练手项目集
 
 ```
 
@@ -582,6 +638,8 @@ laobubu/MarkdownIME
 wangdahoo/vonic
 angular-ui/bootstrap
 vuwe/vuwe
+iview/iview
+bodymovin/bodymovin
 
 ```
 
@@ -595,6 +653,9 @@ ruanyf/react-demos
 1. 整合
 ```
 vinta/awesome-python
+jekil/awesome-hacking
+jobbole/awesome-python-cn
+
 ```
 
 2. 框架
@@ -605,6 +666,10 @@ kevinhughes27/TensorKart
 
 3. 项目例子
 
+```
+brilee/MuGo
+```
+
 
 #### 数据分析
 
@@ -614,7 +679,8 @@ kevinhughes27/TensorKart
 jikexueyuanwiki/tensorflow-zh               谷歌全新开源人工智能系统TensorFlow官方文档中文版
 ty4z2008/Qix                                资料
 ZuzooVn/machine-learning-for-software-engineers
-
+jtoy/awesome-tensorflow
+JustFollowUs/Machine-Learning
 
 ```
 
@@ -656,4 +722,6 @@ Dev-XYS/Algorithms      全面的算法代码库
 limetext/lime                   ide相关
 Skykai521/sketch-measure        sketch插件
 miloyip/game-programmer
+karan/Projects
+sindresorhus/awesome
 ```

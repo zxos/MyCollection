@@ -288,6 +288,8 @@ textView相关
     xmuSistone/AndroidPileLayout
     daimajia/AndroidSwipeLayout
 
+webView
+    Tencent/VasSonic
 
 通知
     wenmingvs/NotifyUtil
@@ -303,6 +305,8 @@ textView相关
     Aspsine/FragmentNavigator
     rubensousa/PreviewSeekBar
     Yalantis/JellyToolbar
+    Devlight/NavigationTabStrip
+    Devlight/NavigationTabBar
 
 环形
     feeeei/CircleSeekbar
@@ -386,6 +390,7 @@ icons
     deano2390/MaterialShowcaseView
     ksoichiro/Android-ObservableScrollView
     alt236/USB-Device-Info---Android
+
 
 ```
 
@@ -534,6 +539,7 @@ icons
     psaravan/JamsMusicPlayer
     TeamNewPipe/NewPipe
     aliumujib/Orin
+    CarGuo/GSYVideoPlayer
 
 UI
     markushi/android-ui
@@ -662,7 +668,7 @@ kickstarter/android-oss
 nickbutcher/plaid
 pockethub/PocketHub
 HurTeng/StormPlane                                  一款基于Android开发的纵版飞行射击游戏
-
+LRH1993/Eyepetizer-in-Kotlin
 
 ```
 
@@ -899,6 +905,7 @@ scikit-learn/scikit-learn
 caffe2/caffe2
 madeye/sssniff
 Tencent/ncnn
+PAIR-code/deeplearnjs
 
 DEAP/deap
 spotify/annoy
